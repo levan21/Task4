@@ -1,0 +1,44 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+header {
+    padding: 25px 70px;
+}
+header table {
+    width: 100%;
+}
+
+td {
+    vertical-align: middle;
+}
+h1 {
+    color: #4468E2;
+}
+
+li {
+    display: inline-block;
+
+}
+li:not(:last-of-type) {
+    margin-right: 75px;
+}
+.btn-con2 {
+    width: 100%;
+    margin-left: auto;
+    border-radius: 10px;
+    background-color: #4468E2;
+    color: white;
+    height: 25px;
+}
+
+
+.bck1 {
+    margin-top: -450px;
+    margin-left: -200px;
+    margin-right: 50%;
+    margin-left: 0%;
+    
+    
+}
